@@ -13,6 +13,12 @@
     "react": "18.1.0",
     "react-dom": "18.1.0"
   },
+  "prettier": {
+    "trailingComma": "es5",
+    "semi": false,
+    "singleQuote": true,
+    "printWidth": 120
+  },
   "devDependencies": {
     "@types/node": "17.0.42",
     "@types/react": "18.0.12",
