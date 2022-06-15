@@ -1,4 +1,4 @@
-import '../styles/globals.css'
+import 'tailwindcss/tailwind.css'
 import 'nprogress/nprogress.css'
 
 import type { AppProps } from 'next/app'
